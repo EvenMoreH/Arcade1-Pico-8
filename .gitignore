@@ -39,3 +39,19 @@ luac.out
 *.x86_64
 *.hex
 
+# Pico-8 files
+activity_log.txt
+log.txt
+sdl_controllers.txt
+run.ps1
+config.txt
+*.p8.bak
+*.p8~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/settings.json
